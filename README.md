@@ -237,3 +237,4 @@ For more information about Minikube, see the [proposal](https://github.com/kuber
 * [**#minikube on Kubernetes Slack**](https://kubernetes.slack.com)
 * [**Kubernetes Official Forum** ](https://discuss.kubernetes.io)
 (If you are posting to the forum, please tag your post with "minikube")
+
